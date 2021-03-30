@@ -9,14 +9,16 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout    
+      - name: Checkout
         uses: actions/checkout@v2
         with:
           submodules: true
           fetch-depth: 0
+        
+      - name: Setup Node
         uses: actions/setup-node@v1
-        with:
-          node-version: 12.x
+          with:
+            node-version: 12.x
       
       - name: Build
         run: npm run build
