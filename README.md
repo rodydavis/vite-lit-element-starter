@@ -2,12 +2,12 @@
 
 Start the dev server:
 
-`npm run start'
+`npm run start`
 
 Create a production build:
 
-`npm run build'
+`npm run build`
 
 Serve the build directory:
 
-`npm run serve'
+`npm run serve`
