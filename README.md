@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/rodydavis/vite-lit-element-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/rodydavis/vite-lit-element-starter/actions/workflows/ci.yml)
 
+Created from [vitejs](https://github.com/vitejs/vite) via [template-lit-element-ts](https://github.com/vitejs/vite/tree/main/packages/create-app/template-lit-element-ts).
+
 - ✅  Github Pages
 - ✅  ES Modules
 - ✅  Github Actions
