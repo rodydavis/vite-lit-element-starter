@@ -4,7 +4,7 @@ import { resolve } from 'path';
 // https://vitejs.dev/config/
 export default defineConfig({
   build: {
-    outDir: 'docs',
+    outDir: 'build',
     lib: {
       entry: 'src/my-element.ts',
       formats: ['es'],

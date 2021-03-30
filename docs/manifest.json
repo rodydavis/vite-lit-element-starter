@@ -1,7 +1,0 @@
-{
-  "index.html": {
-    "file": "vite-lit-element-starter.es.js",
-    "src": "index.html",
-    "isEntry": true
-  }
-}
