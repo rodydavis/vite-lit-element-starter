@@ -2,9 +2,11 @@
 
 [![CI](https://github.com/rodydavis/vite-lit-element-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/rodydavis/vite-lit-element-starter/actions/workflows/ci.yml)
 
-- ✅ Github Pages - [demo](https://rodydavis.github.io/vite-lit-element-starter/)
-- ✅ ES Modules
-- ✅ Github Actions
+- ✅  Github Pages
+- ✅  ES Modules
+- ✅  Github Actions
+
+[Online Demo](https://rodydavis.github.io/vite-lit-element-starter/)
 
 ## Getting Started
 
