@@ -14,11 +14,11 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
-
-      - name: Build
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
+      
+      - name: Build
         run: npm run build
 
       - name: Test
