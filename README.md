@@ -1,4 +1,4 @@
-# Lit ELement + Vite
+# Lit Element + Vite
 
 [![CI](https://github.com/rodydavis/vite-lit-element-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/rodydavis/vite-lit-element-starter/actions/workflows/ci.yml)
 
